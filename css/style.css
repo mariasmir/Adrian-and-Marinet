@@ -1,0 +1,56 @@
+body{
+  background-image: url(http://pm1.narvii.com/7092/a89adc185443d815708c2e1e53eb41c47a1e5e8cr1-1920-1080v2_uhq.jpg);
+}
+header{
+  color:white ;
+}
+li{
+  display: inline-block;
+  padding: 20px 10px;
+}
+a{
+  background-color:Maroon;
+  border: 1px solid DarkRed;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 5px 5px;
+  text-decoratin: none;
+  color: white;
+
+}
+h2{
+  color: white;
+}
+a:hover{
+  background-color:Maroon;
+  border: 1px solid:Red;
+  border-radius: 5px;
+  font-size: 30px;
+  padding: 5px 5px;
+  text-decoratin: none;
+  color: white;
+
+}
+.posts{
+  background-color:none;
+  border: 1px;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 10px 10px;
+  text-decoratin: none;
+  color: red;
+}
+.button{
+  background-color:red;
+  border: 1px;
+  border-radius: 5px;
+  font-size: 12px;
+  padding: 10px 25px;
+  text-decoratin: none;
+  color: white;
+  width: 105px;
+  margin: 5px 150px;
+}
+p{
+  color:Maroon; 
+}
